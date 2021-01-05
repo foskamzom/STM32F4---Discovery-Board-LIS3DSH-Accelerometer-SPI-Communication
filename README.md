@@ -7,7 +7,7 @@ library is used in this example.
 LIS3DSH and Discovery board are connected with pins A5 (Serial Clock), A6 (Master-In / Slave-Out), A7 (Master-Out / Slave-In) and E3 (Chip Select). Pins D12, D13, D14 and D15
 (onboard leds with colors green, orange, red and blue respectfully) are used for visualizing the output.
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Bu projede STM32F4 Discovery kartını ve kart üzerinde mevcut olan LIS3DSH ivme ölçer sensörünü kullanarak basit bir Android Oryantasyon sistemi oluşturdum.
 Kodun büyük çoğunluğu STM32CubeMX tarafından oluşturuldu, fakat kullanıcı tanımlı bütün değişkenler ve fonksiyonların üzerinde bir açıklama kısmı bulunmaktadır.
